@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="97438ecb-bf7a-4d77-91c3-8829cf8c5ebb" name="Default Changelist" comment="">
+    <list default="true" id="97438ecb-bf7a-4d77-91c3-8829cf8c5ebb" name="Default Changelist" comment="-1st commit">
       <change afterPath="$PROJECT_DIR$/../EnumGenerics" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Ti-tac-toe" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Vehicles" afterDir="false" />
@@ -33,9 +33,6 @@
       <change afterPath="$PROJECT_DIR$/../sortTesting/javaSorting.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../sortTesting/src/main/QuickSort.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../sortTesting/src/main/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ru/tcsbank/fintech/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ru/tcsbank/fintech/SortingTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Phonebook/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Phonebook/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Phonebook/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Phonebook/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Phonebook/out/production/Phonebook/Phonebook.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Phonebook/out/production/Phonebook/Phonebook.class" afterDir="false" />
@@ -44,6 +41,7 @@
       <change beforePath="$PROJECT_DIR$/../javaMap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaMap/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../javaMap/out/production/javaMap/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javaMap/out/production/javaMap/Account.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../javaMap/src/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javaMap/src/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -79,22 +77,26 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="java" value="609" />
+          <entry key="txt" value="28" />
           <entry key="xml" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="609" />
+          <entry key="PLAIN_TEXT" value="28" />
           <entry key="XML" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="iml" value="1" />
           <entry key="java" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="IDEA_MODULE" value="1" />
           <entry key="JAVA" value="3" />
         </counts>
       </usages-collector>
@@ -114,8 +116,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/ru/tcsbank/fintech/SortingTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-221">
-              <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+            <state relative-caret-position="255">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -135,8 +137,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/QuickSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" selection-start-line="2" selection-end-line="63" selection-end-column="1" />
+            <state relative-caret-position="68">
+              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -151,8 +153,13 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Pavel Shakhov" />
+      </list>
+    </option>
     <option name="ROOT_SYNC" value="DONT_SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -203,10 +210,10 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="660" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="618" />
     <option name="width" value="718" />
-    <option name="height" value="731" />
+    <option name="height" value="738" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -413,7 +420,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="660" y="0" width="718" height="731" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -424,18 +431,18 @@
       <window_info anchor="bottom" id="CheckStyle" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32998326" />
+      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.32903227" />
       <window_info anchor="bottom" id="FindBugs-IDEA" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32998326" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31774193" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39865997" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Maven Projects" weight="0.32978722" />
       <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Coverage" side_tool="true" visible="true" weight="0.32978722" />
+      <window_info anchor="right" id="Coverage" side_tool="true" visible="true" weight="0.16414523" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -468,14 +475,11 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="-1st commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="-1st commit" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="2" selection-end-line="63" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -490,10 +494,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/sorting.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="33" lean-forward="true" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ru/tcsbank/fintech/SortingTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-221">
-          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
