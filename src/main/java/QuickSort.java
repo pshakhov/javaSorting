@@ -13,10 +13,9 @@ public class QuickSort {
     }
 
     public static void printArray() { // метод вывода массива
-        for (int i=0; i<array_length-1; i++) {
+        for (int i=0; i<array_length; i++) {
             System.out.print(array[i] + ", ");
         }
-        System.out.println(array[array_length-1]);
     }
 
     public static void quickSort() { // метод быстрой сортировки
